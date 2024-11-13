@@ -18,6 +18,4 @@ This is a simple **responsive login form** built using **HTML** and **CSS**. The
 ### 1. Clone the repository
 To clone the repository, run the following command:
 ```bash
-git clone https://github.com/your-username/login-form.git
-
- 
+git clone https://github.com/HawardTech/Responsive-Login-Form.git
